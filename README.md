@@ -1,6 +1,6 @@
 # Personal portfolio website made with React JS
 
-This project was bootstrapped with [Create React App](https://github.com/mawed22/myfolio).
+This project was bootstrapped with [Create React App](https://mawed22.github.io/myfolio).
 
 The libraries used for this website are:
 
