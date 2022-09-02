@@ -58,7 +58,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Bienvenue sur mon portfolio</span>
                 <h1>{`Salut! Je suis Moustapha`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Développeur Full Stack😃", "Intégrateur WordPress😉", "Infographe😎" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Je suis développeur Full Stack avec bientôt 2 ans d'expérience, je code avec Laravel et Node JS pour le backend, avec React JS et Bootstrap pour le Frontend, pour les bases de données j'utilise MongoDB ou MySQL. 
+                  <p>Je suis développeur Full Stack avec plus de 2 ans d'expérience, je code avec Laravel et Node JS pour le backend, avec React JS et Bootstrap pour le Frontend, pour les bases de données j'utilise MongoDB ou MySQL. 
                   Je travaille également avec Wordpress (site vitrine, e-commerce, e-learning...). 
                   Je maîtrise également les techniques d’analyse et de modélisation de différents projets informatiques.</p>
                   {/*<button onClick={() => console.log('connect')}>Contactez-moi <ArrowRightCircle size={25} /></button>*/}
